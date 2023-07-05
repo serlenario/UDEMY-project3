@@ -1,0 +1,6 @@
+@mixin btn_hover {
+	&:hover {
+		background: #f86060;
+		transition: 0.3s all;
+	}
+}
